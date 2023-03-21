@@ -11,7 +11,7 @@ if an elements is equal to 1. If not the maximum size of the generated cube
 increase, if it is true, the maximum size of the generated cube is set to the 
 element coordinate - 1.
 
-__________________________________________________HOW TO LAUNCH________________________________________________________________
+HOW TO LAUNCH
 
 To make it run, you just have to drag and drop the script in the blender text editor, then run the script.
 Don't hesitate to create multiple materials.
