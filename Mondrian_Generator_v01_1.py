@@ -201,8 +201,8 @@ def CreateCube(zCoordinate, yCoordinate, xCoordinate):
 # PROGRAM :
 
 # Delete all selectable objects.
-bo.object.select_all(action='SELECT')
-bo.object.delete(use_global=False, confirm=False)
+#bo.object.select_all(action='SELECT')
+#bo.object.delete(use_global=False, confirm=False)
 
 # Create a 3D matrix with each elements equal to 0.
 # 0 is an empty space, 1 will be a filled one.
