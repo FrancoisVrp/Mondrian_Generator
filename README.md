@@ -21,4 +21,4 @@ You can activate the automatic delete of all selectable objects in the scene by 
 
 FINALLY
 
-Don't hesitate to make returns on my code, I have start coding in October 2022, so I might have a lot of mistakes or things to learn to have a cleaner and more efficient code.
+Don't hesitate to make returns on my code, I try to code since October 2022, so I might(obviously) have a lot of mistakes or things to learn to have a cleaner and more efficient code.
