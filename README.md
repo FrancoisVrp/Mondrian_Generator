@@ -1,4 +1,3 @@
-""" 
 This scrit generate a Mondrian inspired shape.
 
 A 3D matrix is created with the size of a global cube. Each element of the
@@ -11,10 +10,11 @@ if an elements is equal to 1. If not the maximum size of the generated cube
 increase, if it is true, the maximum size of the generated cube is set to the 
 element coordinate - 1.
 
+If you to watch how it looks and works, you can see it on this time code of my 2023 DemoReel: https://youtu.be/XLdVM_z86U8
+
 HOW TO LAUNCH
 
 To make it run, you just have to drag and drop the script in the blender text editor, then run the script.
 Don't hesitate to create multiple materials.
 
 You can activate the automatic delete of all selectable objects in the scene by deleting the # in front oef the 204-205 lines.
-"""
