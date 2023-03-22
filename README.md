@@ -18,3 +18,7 @@ To make it run, you just have to drag and drop the script in the blender text ed
 Don't hesitate to create multiple materials.
 
 You can activate the automatic delete of all selectable objects in the scene by deleting the # in front oef the 204-205 lines.
+
+FINALLY
+
+Don't hesitate to make returns on my code, I have start coding in October 2022, so I might have a lot of mistakes or things to learn to have a cleaner and more efficient code.
