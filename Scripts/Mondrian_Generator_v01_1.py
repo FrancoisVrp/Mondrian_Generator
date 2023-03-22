@@ -111,6 +111,7 @@ deleteSeed = 1
 # space on x, y and z in the matrix. Then it set a new maximum
 # distance in function of already filled element or not.
 def CursorAnalysis(zCoordinate, yCoordinate, xCoordinate):
+    
     global maxL
     global maxW
     global maxH
